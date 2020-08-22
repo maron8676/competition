@@ -1,3 +1,3 @@
 [workspace]
-members = ["cargo-compete-template"]
+members = ["cargo-compete-template", "abc175"]
 exclude = []
